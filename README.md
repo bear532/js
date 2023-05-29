@@ -1,4 +1,4 @@
-[# 加速網址點我]https://ghproxy.com/raw.githubusercontent.com/bear532/js/main/js.json
+[# 加速網址點我] (https://ghproxy.com/raw.githubusercontent.com/bear532/js/main/js.json)
 
 [# 網址點我1](https://raw.githubusercontent.com/bear532/js/main/js.json)
 
